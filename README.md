@@ -1,17 +1,25 @@
 # Manuel Bento
 
-E aí, Dev's?. 😎💻👨‍💻
+E aí, Dev's?😎💻👨‍💻
 
 Eu sou o Manuel Bento e sou um Desenvolvedor Web, Mobile e Desktop.
 Actualmente estou trabalhando mais com o NodeJs, ReactJs e React Native.
-Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a área..💻
+Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a área.💻
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento">
 
 > ### Quer uma ajudinha?! Me encontre aqui!🚀🚀
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-050342?style=flat-square&labelColor=050342&logo=github&logoColor=white&link=https://github.com/manuelbento19)](https://github.com/manuelbento19)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook.c-050342?style=flat-square&logo=Facebook&logoColor=white&link=mailto:https//wwww.facebook.com/manuelbento.mb)](https://wwww.facebook.com/manuelbento.mb)
-[![Gmail Badge](https://img.shields.io/badge/-manuelbentomb.223@hotmail.com-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelbentomb.223@hotmail.com)](mailto:manuelbentomb.223@hotmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-050342?style=flat-square&logo=Facebook&logoColor=white&link=mailto:https//wwww.facebook.com/manuelbento.mb)](https://wwww.facebook.com/manuelbento.mb)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-050342?style=flat-square&logo=Twitter&logoColor=white&link=mailto:https://twitter.com/manuelbentomb)](https://twitter.com/manuelbentomb)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050342?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manuelbento.mb/)](https://www.instagram.com/manuelbento.mb/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-050342?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:+244924592807)](tel:+244924592807)
+<br>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-050342?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/manuel-bento)](https://www.linkedin.com/in/manuel-bento)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelbentomb.223@mail.com)](mailto:manuelbentomb.223@gmail.com)
+[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-050342?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/manuelbento)](
+https://app.rocketseat.com.br/me/manuelbento)
+[![Discover Badge](https://img.shields.io/badge/-Discover-050342?style=flat-square&logo=Discover&logoColor=white&link=https://discord.com/channels/837754244647878676/837754245092343949)](https://discord.com/channels/837754244647878676/837754245092343949)
 
 > ### Linguagens e Ferramentas🚀
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,7 +33,7 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 
 > ### Sobre Mim
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Pesquise&message=ManuelBento&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 Estudando e trabalhando como <b>Freelancer</b><br/>
