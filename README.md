@@ -14,7 +14,6 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 [![Linkedin Badge](https://img.shields.io/badge/-mariovarela99-050342?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/)](https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/) 
 [![Gmail Badge](https://img.shields.io/badge/-marioteixeiravarela@gmail.com-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioteixeiravarela@gmail.com)](mailto:marioteixeiravarela@gmail.com)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 ### Sobre Mim
 
@@ -24,7 +23,6 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 Estudando/trabalhando como <b>Freelancer</b><br/>
 
 Eu pretendo me capacitar mais como desenvolvedor Mobile.
-
 </p>
 <hr>
 <!--
