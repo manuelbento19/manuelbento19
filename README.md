@@ -23,16 +23,17 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=manuelbento19&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 ### Sobre Mim
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 Estudando/trabalhando como <b>Freelancer</b><br/>
-
 Eu pretendo me capacitar mais como desenvolvedor Mobile.
 </p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=manuelbento19&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 <hr>
 
 
