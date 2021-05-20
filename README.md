@@ -14,6 +14,14 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 [![Linkedin Badge](https://img.shields.io/badge/-mariovarela99-050342?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/)](https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/) 
 [![Gmail Badge](https://img.shields.io/badge/-marioteixeiravarela@gmail.com-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marioteixeiravarela@gmail.com)](mailto:marioteixeiravarela@gmail.com)
 
+> ## Language and Tools🚀🚀
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### Sobre Mim
 
