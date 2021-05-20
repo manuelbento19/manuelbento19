@@ -9,10 +9,11 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento">
 
 > ### Quer uma ajudinha?! Me encontre aqui!🚀🚀
-[![GitHub Badge](https://img.shields.io/badge/-manuelbento19-050342?style=flat-square&labelColor=050342&logo=github&logoColor=white&link=https://github.com/manuelbento19)](https://github.com/manuelbento19)
-[![Twitter Badge](https://img.shields.io/badge/-@manuelbentomb-050342?style=flat-square&labelColor=050342&logo=twitter&logoColor=white&link=https://twitter.com/manuelbentomb)](https://twitter.com/manuelbentomb)
-[![Linkedin Badge](https://img.shields.io/badge/-mariovarela99-050342?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/)](https://www.linkedin.com/in/m%C3%A1rio-varela-0215321bb/) 
-[![Gmail Badge](https://img.shields.io/badge/-manuelbentomb.223@gmail.com-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelbentomb.223@gmail.com)](mailto:manuelbentomb.223@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-050342?style=flat-square&labelColor=050342&logo=github&logoColor=white&link=https://github.com/manuelbento19)](https://github.com/manuelbento19)
+<img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/>
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-LINKEDIN" />
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
 [![Gmail Badge](https://img.shields.io/badge/-manuelbentomb.223@hotmail.com-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelbentomb.223@hotmail.com)](mailto:manuelbentomb.223@hotmail.com)
 
 > ### Linguagens e Ferramentas🚀
