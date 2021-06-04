@@ -1,4 +1,4 @@
-# Manuel Bento <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">
+# Manuel Bento <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="35px" align="center">
 
 E aí, Dev's?😎💻👨‍💻<img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">
 
@@ -6,7 +6,8 @@ Eu sou o Manuel Bento e sou um Desenvolvedor Web, Mobile e Desktop.
 Actualmente estou trabalhando mais com o NodeJs, ReactJs e React Native.
 Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a área.💻
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/>
+<br>
 
 > ### Quer uma ajudinha?! Me encontre aqui!🚀<img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">🚀
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-050342?style=flat-square&labelColor=050342&logo=github&logoColor=white&link=https://github.com/manuelbento19)](https://github.com/manuelbento19)
@@ -33,7 +34,7 @@ https://app.rocketseat.com.br/me/manuelbento)
 
 > ### Sobre Mim <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">
 
-<img src="https://img.shields.io/static/v1?label=Pesquise&message=ManuelBento&color=f8efd4&style=for-the-badge&logo=GitHub">
+<a href="https://github.com/manuelbento19/"><img src="https://img.shields.io/static/v1?label=Pesquise&message=ManuelBento&color=f8efd4&style=for-the-badge&logo=GitHub"><a/>
 
 <p>
 Estudando e trabalhando como <b>Freelancer</b><br/>
