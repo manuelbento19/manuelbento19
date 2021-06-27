@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>Total Visits</td>
+    <td>Total de Visitas</td>
     <td><img src="https://profile-counter.glitch.me/manuelbento19/count.svg" alt="" /></td>
   </tr>
 </table>
