@@ -1,5 +1,12 @@
 # Manuel Bento <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="35px" align="center">
 
+<table>
+  <tr>
+    <td>Total Visits</td>
+    <td><img src="https://profile-counter.glitch.me/manuelbento19/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 E aí, Dev's?😎💻👨‍💻<img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">
 
 Eu sou o Manuel Bento e sou um Desenvolvedor Web, Mobile e Desktop.
