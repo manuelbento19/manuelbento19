@@ -48,4 +48,4 @@ Estudando e trabalhando como <b>Freelancer</b><br/>
 Eu pretendo me capacitar mais como Desenvolvedor Mobile.
 </p>
 <br>
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbento19&show_icons=true&theme=omni&hide=TeX&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbento19&show_icons=true&theme=omni&hide=TeX&layout=compact" alt="status_readme"/></a>
