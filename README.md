@@ -1,4 +1,4 @@
-# Manuel Bento <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="35px" align="center">
+# Manuel Bento
 
 <table>
   <tr>
@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-E aí, Dev's?😎💻👨‍💻<img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">
+E aí, Dev's?😎💻👨‍💻
 
 Eu sou o Manuel Bento e sou um Desenvolvedor Web, Mobile e Desktop.
 Actualmente estou trabalhando mais com o NodeJs, ReactJs e React Native.
@@ -21,7 +21,7 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/>
 <br>
 
-> ### Quer uma ajudinha?! Me encontre aqui!🚀<img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">🚀
+> ### Quer uma ajudinha?! Me encontre aqui!🚀🚀
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-050342?style=flat-square&labelColor=050342&logo=github&logoColor=white&link=https://github.com/manuelbento19)](https://github.com/manuelbento19)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-050342?style=flat-square&logo=Facebook&logoColor=white&link=mailto:https//wwww.facebook.com/manuelbento.mb)](https://wwww.facebook.com/manuelbento.mb)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-050342?style=flat-square&logo=Twitter&logoColor=white&link=mailto:https://twitter.com/manuelbentomb)](https://twitter.com/manuelbentomb)
@@ -34,7 +34,7 @@ Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a á
 https://app.rocketseat.com.br/me/manuelbento)
 [![Discover Badge](https://img.shields.io/badge/-Discover-050342?style=flat-square&logo=Discover&logoColor=white&link=https://discord.com/channels/837754244647878676/837754245092343949)](https://discord.com/channels/837754244647878676/837754245092343949)
 
-> ### Linguagens e Ferramentas 🚀<img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center"> 
+> ### Linguagens e Ferramentas 🚀
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -51,7 +51,7 @@ https://app.rocketseat.com.br/me/manuelbento)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
-> ### Sobre Mim <img src="https://media.giphy.com/media/l0LpKuTWbq8osPTT11/giphy.gif" width="30px" align="center">
+> ### Sobre Mim 
 
 <a href="https://github.com/manuelbento19/"><img src="https://img.shields.io/static/v1?label=Pesquise&message=ManuelBento&color=f8efd4&style=for-the-badge&logo=GitHub"><a/>
 
