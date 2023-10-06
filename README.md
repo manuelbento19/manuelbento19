@@ -1,63 +1,48 @@
-# Manuel Bento
-
-<table>
-  <tr>
-    <td>Total de Visitas</td>
-    <td><img src="https://profile-counter.glitch.me/manuelbento19/count.svg" alt="" /></td>
-  </tr>
-</table>
-
-E aí, Dev's?😎💻👨‍💻
-
-Eu sou o Manuel Bento e sou um Desenvolvedor Web, Mobile e Desktop.
-Actualmente estou trabalhando mais com o NodeJs, ReactJs e React Native.
-Estou disponível pra trabalho e pra contribuir em qualquer projecto ligado a área.💻
-<div align="center">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
-</div>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/>
 <br>
 
-> ### Quer uma ajudinha?! Me encontre aqui!🚀🚀
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-050342?style=flat-square&labelColor=050342&logo=github&logoColor=white&link=https://github.com/manuelbento19)](https://github.com/manuelbento19)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-050342?style=flat-square&logo=Facebook&logoColor=white&link=mailto:https//wwww.facebook.com/manuelbento.mb)](https://wwww.facebook.com/manuelbento.mb)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-050342?style=flat-square&logo=Twitter&logoColor=white&link=mailto:https://twitter.com/manuelbentomb)](https://twitter.com/manuelbentomb)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-050342?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manuelbento.mb/)](https://www.instagram.com/manuelbento.mb/)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-050342?style=flat-square&logo=WhatsApp&logoColor=white&link=tel:+244924592807)](tel:+244924592807)
-<br>
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-050342?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/manuel-bento)](https://www.linkedin.com/in/manuel-bento)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-050342?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuelbentomb.223@mail.com)](mailto:manuelbentomb.223@gmail.com)
-[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-050342?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/manuelbento)](
-https://app.rocketseat.com.br/me/manuelbento)
-[![Discover Badge](https://img.shields.io/badge/-Discover-050342?style=flat-square&logo=Discover&logoColor=white&link=https://discord.com/channels/837754244647878676/837754245092343949)](https://discord.com/channels/837754244647878676/837754245092343949)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel Canganjo
+=======================================================================================================================================
 
-> ### Linguagens e Ferramentas 🚀
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+Software Developer
+------------------
+
+Passionate about technology since a young age, i'm self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Love learning new things and enjoys a good technical challenge.
+
+*   🌍  I'm based in Luanda, Angola
+*   🖥️  See my portfolio at [Developer](http://github.com/manuelbento19)
+*   ✉️  You can contact me at [manuelbentomb.223@gmail.com](mailto:manuelbentomb.223@gmail.com)
+*   🚀  I'm currently working on [My Own Tools](http://github.com/manuelbento19)
+*   🧠  I'm learning Next.js and Shadcn UI
+*   🤝  I'm open to collaborating on contribute to any project related to the area
+*   ⚡  I'm secretly Rorona Zoro... but don't tell anyone 😂### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+</p>
+
+### Others Tools
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)
 ![Socket](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-
-> ### Sobre Mim 
-
-<a href="https://github.com/manuelbento19/"><img src="https://img.shields.io/static/v1?label=Pesquise&message=ManuelBento&color=f8efd4&style=for-the-badge&logo=GitHub"><a/>
-
-<p>
-Estudando e trabalhando como <b>Freelancer</b><br/>
-Eu pretendo me capacitar mais como Desenvolvedor Mobile.
-</p>
-<br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbento19&show_icons=true&theme=omni&hide=TeX&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbento19&show_icons=true&theme=omni&hide=TeX&layout=compact" alt="status_readme"/></a>
+                    
+### Socials
+<p align="left">
+  <a href="https://www.github.com/manuelbento19" target="_blank" rel="noreferrer">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </picture>
+  </a>
+<a href="https://www.linkedin.com/in/manuel-bento" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</picture>
+</a></p>### Badges<b>My GitHub Stats</b><a
+href="http://www.github.com/manuelbento19"><img src="https://github-readme-stats.vercel.app/api?username=manuelbento19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="manuelbento19's GitHub stats" /></a><a
+href="http://www.github.com/manuelbento19"><img
+src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbento19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+href="http://www.github.com/manuelbento19"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manuelbento19&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/manuelbento19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbento19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/manuelbento19/image4text" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=image4text&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/manuelbento19/port-scanner" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=port-scanner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/manuelbento19/product-management-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=product-management-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/manuelbento19/studio-spa-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=studio-spa-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/manuelbento19"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
