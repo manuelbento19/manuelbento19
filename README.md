@@ -1,21 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/>
 <br>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manuel Canganjo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is **Manuel Canganjo**
 =======================================================================================================================================
 
 Software Developer
 ------------------
-
 Passionate about technology since a young age, i'm self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Love learning new things and enjoys a good technical challenge.
 
 * 🌍  I'm based in Luanda, Angola
 * 🖥️  See my portfolio at [Developer](http://github.com/manuelbento19)
-* ✉️  You can contact me at [manuelbentomb.223@gmail.com](mailto:manuelbentomb.223@gmail.com)
+* ✉️  You can contact me at [Inbox](mailto:manuelbentomb.223@gmail.com)
 * 🚀  I'm currently working on [My Own Tools](http://github.com/manuelbento19)
-* 🧠  I'm learning Next.js and Shadcn UI
+* 🧠  I'm learning Next.js and i intend to learn Electron too
 * 🤝  I'm open to collaborating on contribute to any project related to the area
-* ⚡  I'm secretly Rorona Zoro... but don't tell anyone 😂
+* ⚡  I'm secretly **Rorona Zoro**... but don't tell anyone 😂
 
 ### Skills
 
@@ -113,13 +112,13 @@ Passionate about technology since a young age, i'm self-taught web developer wit
           </picture>
       </a>
   </p>
-  ### Badges 
-  <b>My GitHub Stats</b>
+  
+  ### Badges <b>My GitHub Stats</b>
   <a href="http://www.github.com/manuelbento19"><img src="https://github-readme-stats.vercel.app/api?username=manuelbento19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="manuelbento19's GitHub stats" /></a>
   <a href="http://www.github.com/manuelbento19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbento19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <a href="http://www.github.com/manuelbento19"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=manuelbento19&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   <a href="https://github.com/manuelbento19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbento19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  <b>Top Repositories</b>
+  
+### Top Repositories
   <div width="100%" align="center"><a href="https://github.com/manuelbento19/image4text" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=image4text&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
       <a href="https://github.com/manuelbento19/port-scanner" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=port-scanner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
@@ -128,7 +127,8 @@ Passionate about technology since a young age, i'm self-taught web developer wit
       <a href="https://github.com/manuelbento19/product-management-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=product-management-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
       <a href="https://github.com/manuelbento19/studio-spa-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=studio-spa-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
+  <br/><br/><br/><br /><br /><br /><br />
+  
+  
   ### Support Me
-  <ul style="list-style-type: none; margin: 0;">
-      <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/manuelbento19"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-  </ul>  
+  <a href="https://www.buymeacoffee.com/manuelbento19"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
