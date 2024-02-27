@@ -124,7 +124,7 @@ Passionate about technology since a young age, i'm self-taught web developer wit
   </div>
   <br/><br/><br/><br /><br /><br /><br /><br /><br /><br /><br /><br />
   <div width="100%" align="center">
-      <a href="https://github.com/manuelbento19/product-management-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=product-management-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+      <a href="https://github.com/manuelbento19/image-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=image-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
       <a href="https://github.com/manuelbento19/studio-spa-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=studio-spa-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
   <br/><br/><br/><br /><br /><br /><br />
