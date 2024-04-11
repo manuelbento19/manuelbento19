@@ -1,11 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/>
-<br>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is **Manuel Canganjo**
-=======================================================================================================================================
 
 Software Developer
 ------------------
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/>
+
 Passionate about technology since a young age, i'm self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Love learning new things and enjoys a good technical challenge.
 
 * 🌍  I'm based in Luanda, Angola
@@ -42,7 +41,10 @@ Passionate about technology since a young age, i'm self-taught web developer wit
                 width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank"
             rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-                width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank"
+                width="36" height="36" alt="React" /></a><a href="https://nextjs.org/" target="_blank"
+            rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg"
+                width="36" height="36" alt="Next.js" /></a><a href="https://tailwindcss.com/" target="_blank"
             rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
                 width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank"
@@ -116,18 +118,8 @@ Passionate about technology since a young age, i'm self-taught web developer wit
   ### Badges <b>My GitHub Stats</b>
   <a href="http://www.github.com/manuelbento19"><img src="https://github-readme-stats.vercel.app/api?username=manuelbento19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="manuelbento19's GitHub stats" /></a>
   <a href="http://www.github.com/manuelbento19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbento19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <a href="https://github.com/manuelbento19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelbento19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
-### Top Repositories
-  <div width="100%" align="center"><a href="https://github.com/manuelbento19/image4text" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=image4text&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-      <a href="https://github.com/manuelbento19/port-scanner" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=port-scanner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  </div>
-  <br/><br/><br/><br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <div width="100%" align="center">
-      <a href="https://github.com/manuelbento19/image-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=image-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-      <a href="https://github.com/manuelbento19/studio-spa-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manuelbento19&repo=studio-spa-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  </div>
-  <br/><br/><br/><br /><br /><br /><br />
+
   
   
   ### Support Me
