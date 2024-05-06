@@ -44,7 +44,12 @@ Passionate about technology since a young age, i'm self-taught web developer wit
                 width="36" height="36" alt="React" /></a><a href="https://nextjs.org/" target="_blank"
             rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg"
-                width="36" height="36" alt="Next.js" /></a><a href="https://tailwindcss.com/" target="_blank"
+                width="36" height="36" alt="Next.js" /></a>
+        <a href="https://astro.build/" target="_blank"
+            rel="noreferrer"><img
+                src="https://astro.build/assets/press/astro-icon-light-gradient.svg"
+                width="28 alt="Astro" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"
             rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
                 width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank"
