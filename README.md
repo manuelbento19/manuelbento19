@@ -1,17 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is **Manuel Canganjo**
+Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is **Manuel Canganjo** and I am a Software Developer.
 
 Software Developer
 ------------------
-<br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/>
-
-Passionate about technology since a young age, i'm self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Love learning new things and enjoys a good technical challenge.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/> 
+My main focus is on full-stack web development and mobile applications with web technologies. I aim to design and create scalable and reliable software solutions.
+<br><br>
+Passionate about technology since a young age, i'm self-taught developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Love learning new things and enjoys a good technical challenge.
 
 * 🌍  I'm based in Luanda, Angola
 * 🖥️  See my portfolio at [Developer](http://github.com/manuelbento19)
 * ✉️  You can contact me at [Inbox](mailto:manuelbentomb.223@gmail.com)
 * 🚀  I'm currently working on [My Own Tools](http://github.com/manuelbento19)
-* 🧠  I'm learning Next.js and i intend to learn Electron too
+* 🧠  I'm learning Next.js, Tauri(for Desktop Development) and i intend to learn Rust too
 * 🤝  I'm open to collaborating on contribute to any project related to the area
 * ⚡  I'm secretly **Rorona Zoro**... but don't tell anyone 😂
 
@@ -92,6 +92,9 @@ Passionate about technology since a young age, i'm self-taught web developer wit
             target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
                 width="36" height="36" alt="XD" /></a>
+        <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg"
+                width="36" height="36" alt="Rust" /></a>
     </p>
 
 ### Others Tools
