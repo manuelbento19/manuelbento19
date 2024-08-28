@@ -9,7 +9,7 @@ Currently, I am focused on my personal and professional growth, always looking f
 <br><br>
 
 * 🌍  I'm based in Luanda, Angola
-* * 📚  See my articles at [Medium](https://medium.com/@manuelbento19)
+* 📚  See my articles at [Medium](https://medium.com/@manuelbento19)
 * 🖥️  See my portfolio at [Developer](http://github.com/manuelbento19)
 * ✉️  You can contact me at [Inbox](mailto:manuelbentomb.223@gmail.com)
 * 🚀  I'm currently working on [My Own Tools](http://github.com/manuelbento19)
