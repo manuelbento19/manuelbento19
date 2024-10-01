@@ -10,7 +10,7 @@ Currently, I am focused on my personal and professional growth, always looking f
 
 * 🌍  I'm based in Luanda, Angola
 * 📚  See my articles at [Medium](https://medium.com/@manuelbento19)
-* 🖥️  See my portfolio at [Developer](https://bentooo.vercel.app/)
+* 🖥️  See my portfolio at [Vercel](https://bentooo.vercel.app/)
 * ✉️  You can contact me at [Inbox](mailto:manuelbentomb.223@gmail.com)
 * 🚀  I'm currently working on [My Own Tools](http://github.com/manuelbento19)
 * 🧠  I'm learning Next.js, Tauri(for Desktop Development) and i intend to learn Rust too
