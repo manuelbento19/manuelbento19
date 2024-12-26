@@ -22,7 +22,7 @@ Currently, I am focused on my personal and professional growth, always looking f
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,astro,tailwind,sass,bootstrap&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,astro,vue,tailwind,sass,bootstrap&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="30%">
@@ -30,7 +30,7 @@ Currently, I am focused on my personal and professional growth, always looking f
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest,vitest,net,rust&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest,vitest,net,rust,java&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="20%">
