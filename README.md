@@ -1,81 +1,112 @@
-Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is **Manuel Canganjo** and I am a Software Developer.
+# Hey, I'm Manuel Bento 👋🏽
 
-Software Developer
-------------------
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador manuelbento"/> 
-I'm a software developer passionate about technology, specializing in Frontend Development. My journey in creating apps — both for web and mobile — is driven by a genuine passion for solving problems and creating impactful solutions.
-<br><br>
-Currently, I am focused on my personal and professional growth, always looking for new technologies and practices to improve my skills. Additionally, I write articles to share knowledge and help new developers stand out in the software world.
-<br><br>
+### Software Developer · Product Builder
 
-* 🌍  I'm based in Luanda, Angola
-* 📚  See my articles at [Medium](https://medium.com/@manuelbento19)
-* 🖥️  See my portfolio at [Vercel](https://bentooo.vercel.app/)
-* ✉️  You can contact me at [Inbox](mailto:manuelbentomb.223@gmail.com)
-* 🚀  I'm currently working on [My Own Tools](http://github.com/manuelbento19)
-* 🧠  I'm learning Next.js, Tauri(for Desktop Development) and i intend to learn Rust too
-* 🤝  I'm open to collaborating on contribute to any project related to the area
-* ⚡  I'm secretly **Rorona Zoro**... but don't tell anyone 😂
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration"/>
 
-<table align="center"><tr><td valign="top" width="30%">
+I build software, explore engineering ideas, and turn concepts into useful digital products.
 
-### <div align="center"> Frontend </div>
+I'm passionate about software engineering, thoughtful architecture, developer experience, and creating products that solve real problems.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,astro,vue,tailwind,sass,bootstrap&theme=dark&perline=4" />
-</p>
+I enjoy working across the entire product lifecycle — from understanding a problem and designing a solution to writing code, making technical decisions, and shipping something meaningful.
 
-</td><td valign="top" width="30%">
+---
 
-### <div align="center"> Backend </div>
+### 🚀 What I'm up to
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest,vitest,net,rust,java&theme=dark&perline=4" />
-</p>
+- 🧑🏽‍💻 Working as a Software Developer and Frontend Lead.
+- 👥 Leading frontend development teams and contributing to technical decisions.
+- 🛠️ Building digital products and developer tools.
+- 🏗️ Exploring software architecture, application performance, and engineering practices.
+- 📦 Developing open-source projects and reusable tools.
+- ✍🏽 Sharing thoughts and experiences about software development and learning.
 
-</td><td valign="top" width="20%">
+### 🔭 Projects
 
-### <div align="center"> Databases </div>
+| Project | Description |
+|---|---|
+| [Modullum](https://modullum.com) | A platform for creating professional portfolios without code. |
+| [`@bentoo/state-man`](https://www.npmjs.com/package/@bentoo/state-man) | A state management library with selectors, persistence, and tab synchronization. |
+| [`@bentoo/react-lazy`](https://www.npmjs.com/package/@bentoo/react-lazy) | A React library for lazy loading. |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,redis&theme=dark&perline=2" />
-</p>
+---
 
-</td><td valign="top" width="20%">
+### 💻 Tech Stack & Tools
 
-### <div align="center"> Tools </div>
+**Frontend**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,xd,docker,linux,vscode,git,github,bitbucket,azure,gitlab,bash,powershell,notion&theme=dark&perline=3" />
-</p>
+![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,astro,tailwind,sass&perline=8)
 
-</td></tr></table>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
-### Socials
-   
-  <p align="left">
-      <a href="https://www.github.com/manuelbento19" target="_blank" rel="noreferrer">
-          <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-          </picture>
-      </a>
-      <a href="https://www.linkedin.com/in/manuel-bento" target="_blank" rel="noreferrer">
-          <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-          </picture>
-      </a>
-  </p>
-  
-  ### Badges <b>My GitHub Stats</b>
-  <a href="http://www.github.com/manuelbento19"><img src="https://github-readme-stats.vercel.app/api?username=manuelbento19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="manuelbento19's GitHub stats" /></a>
-  <a href="http://www.github.com/manuelbento19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelbento19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  
-[![](https://visitcount.itsvg.in/api?id=manuelbento19&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-  
-  
-  ### Support Me
-  <a href="https://www.buymeacoffee.com/manuelbento19"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+**Backend & Data**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mysql,redis,firebase,supabase,rust&perline=8)
+
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Tools & DevOps**
+
+![Tools](https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,bitbucket,azure,cloudflare,vercel,bash,powershell,vite,vscode,visualstudio,idea&perline=8)
+
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+
+**Testing**
+
+![Testing](https://skillicons.dev/icons?i=jest,vitest&perline=8)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white)
+
+**AI & Developer Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=flat&logo=vercel&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white)
+
+I believe in choosing the right tool for the job. This list represents technologies and tools I've worked with or explored, not a limitation to the technologies I use.
+
+---
+
+### 🌍 A little more about me
+
+- 📍 Based in Luanda, Angola.
+- 🎓 Studying Computer Engineering.
+- 📝 I write about technology, software development, and continuous learning.
+- 💡 Interested in turning ideas into products.
+- 🤝 Open to meaningful collaborations and open-source projects.
+- ⚔️ Secretly Roronoa Zoro... but don't tell anyone. 😂
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Bento-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bento/)
+[![Instagram](https://img.shields.io/badge/Instagram-manuelbento.mb-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/manuelbento.mb/)
+[![X](https://img.shields.io/badge/X-manuelbentomb-000000?style=flat&logo=x&logoColor=white)](https://x.com/manuelbentomb)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@manuelbento19)
+
+🌐 **Portfolio:** [bentooo.vercel.app](https://bentooo.vercel.app)
+
+---
+
+*Building things, exploring ideas, and enjoying the process.*
